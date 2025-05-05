@@ -35,4 +35,4 @@ python manage.py createsuperuser
 9. iniciamos el servidor 
 python manage.py runserver
 ## captura del panel funcionando
-![Panel de Administración](imagenespractica/panel.png)
+![Panel de Administración](imagenespractica/Captura%20web_4-5-2025_232022_127.0.0.1.jpeg)
